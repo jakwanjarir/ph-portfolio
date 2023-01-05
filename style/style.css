@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+}
+/* navigation style sob */
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 100px;
+
+}
+
+nav ul  {
+    display: flex;
+    list-style: none;
+    margin: left 50px;
+    
+
+}
+.pic{
+text-align: right;
+padding: 20px;
+background-color: aqua;
+}
+.paragraph{
+   
+    margin: 0 100px;
+}
+/* akane about  */
+.about{
+    text-align: center;
+    color: orangered;
+}
